@@ -5,4 +5,4 @@ Este trabajo consiste en la segunda tarea del curso de Programación SIG (GF0657
 [Enlace del nbviewer:](https://nbviewer.org/github/LuisGomez02/Tarea_02/blob/main/Trabajo_practico_2.ipynb)
 
 
-holis
+holis, luisito
